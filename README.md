@@ -9,6 +9,7 @@ This research paper focuses on two main aspects:
 
 1. Studying various implementations of Bloom filters with different hashing variations.
 2. Time analysis comparisons between Bloom filters and internet search on datasets.
+Both aspects where done using the [COCONUT database](https://coconut.naturalproducts.net/).
 
 The code in this repository is divided into two primary files for each respective aspect mentioned above.
 
