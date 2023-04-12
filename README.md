@@ -8,7 +8,7 @@ Welcome to the MolBloom-Paper repository! This repository contains the code and 
 This research paper focuses on two main aspects:
 
 1. Studying various implementations of Bloom filters with different hashing variations.
-2. Time analysis comparisons between Bloom filters and traditional internet search methods in datasets.
+2. Time analysis comparisons between Bloom filters and internet search on datasets.
 
 The code in this repository is divided into two primary files for each respective aspect mentioned above.
 
